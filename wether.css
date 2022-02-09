@@ -1,0 +1,17 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1592210454359-9043f067919b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8d2VhdGhlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60") ;
+    background-size: cover;
+    background-position:top ;
+}
+
+main{
+    margin-bottom: 450px;
+}
+main .container .border{
+    background-color: rgba(240, 248, 255, 0.472);
+    border-radius: 20px;
+}
+
+#dgree_change{
+    border-radius: 50%;
+}
