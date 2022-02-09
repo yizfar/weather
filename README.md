@@ -1,2 +1,2 @@
 # weather
-java script  use weather API
+[Link to my WEATHER site](https://weatheryiz.netlify.app/)
